@@ -1,4 +1,4 @@
-# Moji Barber
+# Moji Barber ( ´･ω･)
 
 ![preivew](./preview.gif)
 
