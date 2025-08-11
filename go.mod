@@ -1,4 +1,4 @@
-module mojibarber
+module github.com/guiyuanju/mojibarber
 
 go 1.24.3
 
