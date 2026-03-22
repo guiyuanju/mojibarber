@@ -1,4 +1,4 @@
-# Moji Barber ( ´･ω･)
+# Terminal Moji Barber ( ´･ω･)
 
 ![preivew](./preview.gif)
 
@@ -6,6 +6,12 @@
 
 You need to have `Go` installed.
 
+Installation:
 ```shell
 go install github.com/guiyuanju/mojibarber@latest
+```
+
+Run in terminal:
+```shell
+mojibarber
 ```
